@@ -1,1 +1,2 @@
-# text-coding
+include <stdio.h>
+include <stdlib.h>
